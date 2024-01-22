@@ -1,0 +1,25 @@
+.navbar{
+    background-image: url("c:\Users\Aseem\Downloads\desktop-wallpaper-yellow-flowers-46-pc-yellow-flowers-in-special-yellow-aesthetic_1_.avif");
+    padding: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.elements{
+    align-items: center;
+    display: flex;
+    justify-content: right;
+}
+
+.navbar a{
+    justify-content: right;
+    display: flex;
+}
+
+.navbar button{
+    padding: 10px 25px;
+    margin-left: 40px;
+    background-color: #f8d14f;
+    color: #000100;
+    border-radius: 15px;
+}

@@ -1,0 +1,25 @@
+.pretty-button-2 {
+    background-color: #4b1246;
+    padding: 10px 25px;
+    font-size: 18px;
+    color: #f3aeed;
+    margin: 10px 10px 0 0;
+    display: inline-block;
+    text-decoration: none;
+    float: none;
+    border-radius: 15px;
+  }
+  
+  .h1 {
+    color: #3b1d3a;
+  }
+  
+  .container-counter {
+    border: 2px solid #9b7e96;
+    border-radius: 15px; /* Border radius for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle shadow effect */
+    padding: 100px; /* Padding inside the jumbotron */
+    background-color: #fff; /* Background color for the jumbotron */
+    margin: 70px;
+    max-height: 500px;
+  }
